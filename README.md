@@ -39,6 +39,9 @@ Install the requirements
 
 ```bash
 pip install -r requirements.txt
+pip install python-engineio==3.13.2
+pip install python-socketio==4.6.1
+
 ```
 
 
@@ -54,8 +57,8 @@ Now open your simulator in Autonomous mood & run yes!!🙂
 
 # Authors:
 ```bash
-Author: Bappy Ahmed
+Author: Ravi Ranjan Kumar Dubey
 Data Scientist
-Email: entbappy73@gmail.com
+Email: ravi0dubey@gmail.com
 ```
 
