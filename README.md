@@ -22,7 +22,7 @@ A self-driving car, also known as an autonomous vehicle, driverless car, or robo
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Complete-Self-Driving-Car.git
+https://github.com/ravi0dubey/Deep_learning_Self_Driving_Car.git
 ```
 
 ## STEP 02: 
@@ -31,6 +31,7 @@ Create an environment & activate
 
 ```bash
 conda create -n sdcar python=3.7 -y
+conda activate sdcar
 ```
 
 ## STEP 03: 
